@@ -1,0 +1,22 @@
+.folder{
+    background-image: url("http://www.pngplay.com/wp-content/uploads/1/Blue-Folder-PNG-Transparent-Images.png");
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 150px;
+}
+.add-folder{
+    border: 2px dashed #d9d9d9;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    height: 100px;
+    width: 150px;
+}
+input:focus{
+    outline-color: transparent;
+}
